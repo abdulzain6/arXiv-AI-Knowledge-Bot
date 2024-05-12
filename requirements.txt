@@ -1,0 +1,8 @@
+discord
+httpx
+langchain
+lxml
+jsonschema
+peewee
+pinecone-client
+discord-components
